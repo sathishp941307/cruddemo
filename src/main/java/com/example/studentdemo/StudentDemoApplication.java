@@ -8,6 +8,9 @@ public class StudentDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(StudentDemoApplication.class, args);
+
+
+        System.out.println("cicd Demo proejct created successfully");
     }
 
 }
