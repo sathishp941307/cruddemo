@@ -10,7 +10,7 @@ public class StudentDemoApplication {
         SpringApplication.run(StudentDemoApplication.class, args);
 
 
-        System.out.println("cicd Demo proejct created successfully");
+        System.out.println("cicd Demo project created successfully");
     }
 
 }
