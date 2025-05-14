@@ -19,10 +19,10 @@ public class UserController {
     private com.example.studentdemo.security.JwtUtil jwtUtil;
 
     @Value("${role.admin}")
-    private String roleAdmin;
+    String roleAdmin;
 
     @Value("${role.user}")
-    private String roleUser;
+    String roleUser;
 
 //    // To access user-protected resources
 //    @GetMapping("/protected-data")

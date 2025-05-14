@@ -42,6 +42,9 @@ public class Product {
         this.updatedAt = updatedAt;
     }
 
+
+
+
     public long getId() {
         return id;
     }
